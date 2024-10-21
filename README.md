@@ -10,6 +10,9 @@ pip install selenium
 
 ## How to run?
 1. Download and extract `.zip`
-2. Dwonload and open `main.py` and input birthday (Line 22), range of ID (Line 25 and 26) and range of date (Line 30 and 31) 
-3. Run the `chromedriver.exe`
+2. Download and open `main.py`. Change:
+	- Input birthday (Line 22),
+	- Range of ID (Line 25 and 26),
+	- Range of date (Line 30 and 31) 
+3. Run `chromedriver.exe`
 4. Run `main.py` 
