@@ -1,2 +1,2 @@
 # Verification-of-Telc-certificates
-A script to Verification of Telc certificates knowing only a part of data
+i have lost my Attendee ID and write a script to go through the possible numbers
